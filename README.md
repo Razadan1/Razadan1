@@ -1,4 +1,5 @@
 # 👋 Hi, I’m @Razadan1, You can call me **Raza**
+![alt Raza] (majoraza.png)
 - 👀 I’m interested in anything useful and beneficial to me!!!
 - 🌱 I’m currently learning:
     1. Software Engineering @ALX SE
