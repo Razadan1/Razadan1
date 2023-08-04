@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Razadan1, You can call me **Raza**
-! [alt Raza](majoraza.png)
+! [Raza](https://scontent.flos3-2.fna.fbcdn.net/v/t39.30808-6/347638212_787516626294912_620573927352942582_n.png?stp=dst-png_p640x640&_nc_cat=104&cb=99be929b-59f725be&ccb=1-7&_nc_sid=e3f864&_nc_ohc=kZzUr5IB9Z4AX-6IPYU&_nc_ht=scontent.flos3-2.fna&oh=00_AfDHHLWZZgnEvnd30zopP6_E5rF8UGmh32vAx--Nb0yu3Q&oe=64D2D513)
 - 👀 I’m interested in anything useful and beneficial to me!!!
 - 🌱 I’m currently learning:
     1. Software Engineering @ALX SE
