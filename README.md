@@ -45,6 +45,7 @@ If you share similar interests or have any exciting opportunities, feel free to 
   - [Linkedin](https://www.linkedin.com/in/ahmadraza-danmole-62202122a/)
   - [Twitter](https://twitter.com/Razadan1)
   - [Facebook](https://www.facebook.com/danmole.omomayowa?_rdc=1&_rdr)
+
 Let's create a data-powered and tech-driven future together! 🚀
 - #DataAnalyst  #DataDrivenSolutions #DataAnalytics 
 - #SoftwareDevelopment #SoftwareEngineer
