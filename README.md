@@ -51,7 +51,7 @@ Let's create a data-powered and tech-driven future together! 🚀
 - #SoftwareDevelopment #SoftwareEngineer
 - #Python #SQL #R #Java #JavaScript #C++ #Cloudcomputing #Database
 - #Tableau #PowerBI #MicrosoftOffice
-- #ContinuousLearning #Collaboration #TechInnovation #LinkedIn #TechEnthusiast
+- #ContinuousLearning #Collaboration #TechInnovation #Github #TechEnthusiast
 
 <!---
 Razadan1/Razadan1 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
