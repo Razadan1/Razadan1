@@ -37,14 +37,20 @@ My goal is to contribute to cutting-edge projects that have a positive impact on
 
 ## 📧 Let's Connect:
 I'm always open to connecting with like-minded individuals, potential mentors, and industry professionals.
-If you share similar interests or have any exciting opportunities, feel free to reach out via LinkedIn messaging or at [your.email@example.com].
+If you share similar interests or have any exciting opportunities, feel free to reach out via LinkedIn messaging or at [danmoleomomayowa@gmail.com].
 ### 📫 How to reach me: 
     - My_hot_line: +2348027027725 / +2349031834901
     - Whatsapp:    +2348027027725
+    - [E-mail](danmoleomomayowa@gmail.com)
     - [Linkedin](https://www.linkedin.com/in/ahmadraza-danmole-62202122a/)
     - [Twitter](https://twitter.com/Razadan1)
     - [Facebook](https://www.facebook.com/danmole.omomayowa?_rdc=1&_rdr)
 Let's create a data-powered and tech-driven future together! 🚀
+- #DataAnalyst  #DataDrivenSolutions #DataAnalytics 
+- #SoftwareDevelopment #SoftwareEngineer
+- #Python #SQL #R #Java #JavaScript #C++ #Cloudcomputing #Database
+- #Tableau #PowerBI #MicrosoftOffice
+- #ContinuousLearning #Collaboration #TechInnovation #LinkedIn #TechEnthusiast
 
 <!---
 Razadan1/Razadan1 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
