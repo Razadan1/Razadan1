@@ -16,14 +16,14 @@ Driven by my passion for technology and software development, I am actively work
 ### 🚀 Continuous Learning:
 I believe in continuous learning and am always seeking opportunities to expand my knowledge and skills. Whether it's attending workshops, participating in hackathons, or pursuing online courses, I strive to stay updated with the latest industry trends and best practices.
 ### 🌱 I’m currently learning:
-    1. Software Engineering @ALX SE
-    2. Data Science @CISCO NETWORKING ACADEMY
+   1. Software Engineering @ALX SE
+   2. Data Science @CISCO NETWORKING ACADEMY
 
 ### 🤝 Collaboration:
 - I thrive in collaborative environments and enjoy working with cross-functional teams. My strong communication and interpersonal skills allow me to bridge the gap between technical and non-technical stakeholders,
 ensuring smooth project execution and successful outcomes.
     - 💞️ I’m looking to collaborate on:
-    -  Computer Programming and Coding.
+    - Computer Programming and Coding.
     - Software Development.
     - Object-Oriented Design (OOD)
     - Software Testing and Debugging.
@@ -39,12 +39,12 @@ My goal is to contribute to cutting-edge projects that have a positive impact on
 I'm always open to connecting with like-minded individuals, potential mentors, and industry professionals.
 If you share similar interests or have any exciting opportunities, feel free to reach out via LinkedIn messaging or at [danmoleomomayowa@gmail.com].
 ### 📫 How to reach me: 
-    - My_hot_line: +2348027027725 / +2349031834901
-    - Whatsapp:    +2348027027725
-    - [E-mail](danmoleomomayowa@gmail.com)
-    - [Linkedin](https://www.linkedin.com/in/ahmadraza-danmole-62202122a/)
-    - [Twitter](https://twitter.com/Razadan1)
-    - [Facebook](https://www.facebook.com/danmole.omomayowa?_rdc=1&_rdr)
+  - My_hot_line: +2348027027725 / +2349031834901
+  - Whatsapp:    +2348027027725
+  - [E-mail](danmoleomomayowa@gmail.com)
+  - [Linkedin](https://www.linkedin.com/in/ahmadraza-danmole-62202122a/)
+  - [Twitter](https://twitter.com/Razadan1)
+  - [Facebook](https://www.facebook.com/danmole.omomayowa?_rdc=1&_rdr)
 Let's create a data-powered and tech-driven future together! 🚀
 - #DataAnalyst  #DataDrivenSolutions #DataAnalytics 
 - #SoftwareDevelopment #SoftwareEngineer
