@@ -46,7 +46,7 @@ If you share similar interests or have any exciting opportunities, feel free to 
   - [Twitter](https://twitter.com/Razadan1)
   - [Facebook](https://www.facebook.com/danmole.omomayowa?_rdc=1&_rdr)
 
-Let's create a data-powered and tech-driven future together! 🚀
+Let's create a data-powered and tech-driven future together ! 🚀
 - #DataAnalyst  #DataDrivenSolutions #DataAnalytics 
 - #SoftwareDevelopment #SoftwareEngineer
 - #Python #SQL #R #Java #JavaScript #C++ #Cloudcomputing #Database
