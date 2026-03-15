@@ -7,9 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadraza-danmole-62202122a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danmoleomomayowa@gmail.com)
-[![X](https://img.shields.io/badge/X(Twitter)-D14836?style=for-the-badge&logo=X&logoColor=white)](https://x.com/razadan1)
-
-</div>
+[![Follow on X](https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/razadan1)
 
 ---
 
